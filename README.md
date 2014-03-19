@@ -1,4 +1,4 @@
 GestionTache
 ============
 
-Conception et réalisation d'un système d'un système de gestion de tâche
+Conception et réalisation d'un système de gestion de tâche
